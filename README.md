@@ -1,1 +1,1 @@
-This project is about Random Groups.
+This is a work-in-progress ML project about Random Groups. I'd like to build a classifier that, based on several input parameters, attempts to categorise groups as either infinite hyperbolic or trivial. The goal is that the classifier will witness the phase transition theorem in Gromov's density model, that is, for Gromov density $$d \in [0,1]$$, when $$d<0.5$$, the group is asymptotically almost surely infinite hyperbolic, and when $$d>0.5$$, the group is a.a.s. trivial. 
