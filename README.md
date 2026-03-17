@@ -6,5 +6,5 @@ This is a work-in-progress ML project about Random Groups. I'd like to build a c
 - kNN_simple.py – simple classifier used as an example
 
 ## Current Requirements
--numpy
--scikit-learn
+- numpy
+- scikit-learn
