@@ -1,0 +1,16 @@
+# virtual environment
+venv/
+.env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# vscode
+.vscode/
+
+# mac / linux junk
+.DS_Store
+
+# output files
+*.csv
